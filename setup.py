@@ -42,7 +42,7 @@ setup(
     'h5py',
     'iiif-downloader',
     'numba',
-    'numpy',
+    'numpy==1.19.5',
     'Pillow',
     'pointgrid',
     'python-dateutil',
